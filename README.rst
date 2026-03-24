@@ -6,7 +6,7 @@
 .. _CONTRIBUTING: https://github.com/searxng/searxng/blob/master/CONTRIBUTING.rst
 .. _LICENSE: https://github.com/searxng/searxng/blob/master/LICENSE
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/client/simple/src/brand/searxng.svg
+.. figure:: https://github.com/BeelPyon/fuyuxng/blob/master/searx/static/themes/simple/img/searxng.png?raw=true
    :target: https://searxng.org
    :alt: SearXNG
    :width: 512px
